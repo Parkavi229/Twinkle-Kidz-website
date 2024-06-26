@@ -3,7 +3,7 @@
 }
 
 .banner{
-    background-image: url(/website_project/images/kidz3.jpg);
+    background-image: url(../images/kidz3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 290px 0;
